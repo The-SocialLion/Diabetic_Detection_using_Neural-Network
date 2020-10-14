@@ -1,0 +1,2 @@
+# Diabetic_Detection_using_Neural-Network
+This repository consists of two parts o,where the train part develops a model for the given csv file and also returns the overall accuracy whereas  the test part produces predicted values for the given csv file 
